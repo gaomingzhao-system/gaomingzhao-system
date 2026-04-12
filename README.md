@@ -25,7 +25,7 @@
 
 <h3>Cross Platforms</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=ionic,tauri)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=capacitor,tauri)](https://skillicons.dev)
   
 <h3>Tools and Enviroments</h3>
 
