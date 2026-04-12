@@ -17,11 +17,15 @@
 
 <h3>Frontend</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,vuejs,nuxtjs,svelte,astro,pinia,tailwindcss,sass,less,vuetify,bootstrap,tauri,vite,vitest,vercel,npm,pnpm,yarn)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,vuejs,nuxtjs,svelte,astro,pinia,tailwindcss,sass,less,vuetify,bootstrap,vite,vitest,vercel,npm,pnpm,yarn)](https://skillicons.dev)
   
 <h3>Backend</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,nitro)](https://skillicons.dev)
+
+<h3>Cross Platforms</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=ionic,tauri)](https://skillicons.dev)
   
 <h3>Tools and Enviroments</h3>
 
