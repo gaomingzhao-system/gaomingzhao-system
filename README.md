@@ -3,12 +3,11 @@
 <div align="left">
 <h2> 😎 &nbsp;趣味</h2>
 
-- `日本アニメ`
-- `アメリカアニメ（タマタマ）`
+- `アニメ`
 - `JPOP`
-- `日本旅行`
+- `日本地図`
 - `古い街`
-- `昔日本の廃棄学校`
+- `廃棄学校探検`
 
 </div>
 
@@ -34,5 +33,3 @@
 <h3>Solutions</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=github,stackoverflow)](https://skillicons.dev)
-
----
